@@ -1,5 +1,5 @@
 # Chasham-Deed
-Civic reporting platform allows public civic problems to there relevant authorities include media.
+Civic reporting platform allows public civic problems to their relevant authorities include media.
 What it does" A platform through which any body can inform about the civic problem(it may be accident, murder, education system etc) to there related department by identity there self by cnic as well as evidence of civic problem(like pic and videos ) and it will also send to media after approving the admin.
 How we built it " It is android base app and web base portal for raising civic issues.
 Challenges we ran into" Here we involving print media, social media and electronic media that will highlight these problems too. public can access high authorities easily through using the platform.
